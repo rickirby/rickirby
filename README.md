@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hi, there 👋
+
+I am Ricki Bin Yamin. I'm an iOS Developer and also an Electrical Engineer. I was graduated from Institut Teknologi Sepuluh Nopember (ITS), Surabaya. I had completed my journey at Apple Developer Academy @UC on 2019 batch. My current interest is exploring more and more about Software Engineering field, but not forgetting my Electrical Engineering skills. I believe, Software Engineering and Electrical Engineering will form a synergy for a brighter future.
+
+### 📫 How to reach me
+
+* Linkedin : [https://www.linkedin.com/in/rickirby18](https://www.linkedin.com/in/rickirby18/)
+* Medium : [https://medium.com/@rickirby](https://medium.com/@rickirby)
+* e-mail : [ricki.bin.yamin@gmail.com](mailto:ricki.bin.yamin@gmail.com)
+
+
 
 <!--
 **rickirby/rickirby** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
